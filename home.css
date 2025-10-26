@@ -1,0 +1,9 @@
+h1{
+  text-align: center;
+  border: 1px dashed black;
+}
+
+p{
+    font-family: 'Aldrich', sans-serif;
+    color: red;
+}
